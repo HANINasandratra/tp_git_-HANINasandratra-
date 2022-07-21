@@ -1,3 +1,7 @@
 # tp_git_-HANINasandratra-
-git clone https://github.com/HANINasandratra/tp_git_-HANINasandratra-.git : Pour recuperer le projet 
-python addTwonInt.py : Pour executer les codes
+***
+##### C'est mon premier tp git
+###### Comment recuperer mon projet
+git clone https://github.com/HANINasandratra/tp_git_-HANINasandratra-.git 
+###### Comment executer mes codes 
+python addTwonInt.py 
